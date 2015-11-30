@@ -1,1 +1,1 @@
-Demo template designing using Bootstrap, JQuery ..
+Demo template designing using Bootstrap, JQuery, metisMenu ..
